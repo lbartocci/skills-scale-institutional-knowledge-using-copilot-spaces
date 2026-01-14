@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead coordinates test execution and ensures quality gates are met
+- Test results reviewed in sprint demos and release readiness meetings
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Lead engaged for test planning and quality oversight
+- [ ] Stakeholder Liaison provides regular updates to external stakeholders
