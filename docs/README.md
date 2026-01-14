@@ -55,7 +55,9 @@ Consistent communication keeps teams aligned and projects on track:
 
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)**: How to identify, manage, and communicate risks and dependencies, including the Risk Register and stakeholder communication templates
 
-- **[Personas and Roles](octoacme-roles-and-personas.md)**: Detailed definitions of key roles (Developers, Product Managers, Project Managers) with responsibilities, goals, and communication patterns
+- **[Personas and Roles](octoacme-roles-and-personas.md)**: Detailed definitions of key roles (Developers, Product Managers, Project Managers, Business Analysts, QA Leads, Release Managers, Stakeholder Liaisons, and Community Advocates) with responsibilities, goals, and communication patterns
+
+- **[Role Collaboration Matrix](octoacme-role-collaboration-matrix.md)**: Clear view of how different roles interact and collaborate throughout the project lifecycle, including communication patterns and decision-making frameworks
 
 ## How to Use These Documents
 

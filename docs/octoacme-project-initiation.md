@@ -14,10 +14,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (coordinated by Stakeholder Liaison)
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Initial requirements summary (documented by Business Analyst)
 
 ## Project One-pager Template
 - Project name:
@@ -31,6 +32,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Business Analyst engaged for requirements gathering
+- [ ] Stakeholder Liaison assigned and stakeholder list created
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton

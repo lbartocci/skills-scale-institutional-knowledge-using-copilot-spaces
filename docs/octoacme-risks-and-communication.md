@@ -21,8 +21,11 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Stakeholder Liaison serves as primary point of contact for external stakeholders
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Ensure timely stakeholder input on key decisions
+- Maintain feedback loops with Community Advocate for user community input
 
 ## Communication Templates
 Weekly Status Template:

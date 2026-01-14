@@ -10,11 +10,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+2. Business Analyst facilitates requirements gathering and documentation
+3. Create prioritized backlog with acceptance criteria (with Business Analyst support)
+4. Estimate scope (T-shirt sizing or story points)
+5. Define Definition of Done (DoD)
+6. QA Lead develops initial test strategy and approach
+7. Identify dependencies and integration points
+8. Create release plan and milestone map (with Release Manager input)
 
 ## Backlog Item Template
 - Title:
@@ -37,7 +39,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Business Analyst completes requirements documentation
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed (with Release Manager)
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted by QA Lead
+- [ ] Stakeholder communication plan established (with Stakeholder Liaison)
